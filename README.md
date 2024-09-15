@@ -1,5 +1,5 @@
 # Pandas-Challenge
-- The challenge code is found under the "Pandas-Challenge" folder. The file name is PyCitySchools_starter.ipynb.
+- The challenge code is found under the "PyCitySchools" folder. The file name is PyCitySchools_starter.ipynb.
 - The first section of the code contains a short summary of the assignment, and the next two paragraphs are conclusions from the analysis I did on the data presented. 
 - This challenge includes some of the following areas: creating dataframes, functions, working with columns, reading from csv files, loc, groupby, merging data, data cleaning, binning, mapping, etc.
 - For debugging I used tools like Xpert Learning Assistant, and ChatGPT.
